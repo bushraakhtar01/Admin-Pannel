@@ -60,7 +60,7 @@ class CreateSapphire extends React.Component{
             <div className="jumbotron jumbotron-fluid" style={{marginLeft: '160px', marginTop:'10px',backgroundImage: 'url(sadd.jpg)',backgroundSize:'cover'}}>
 <div className="container">
             
-            <h1 className="display-4" style={{ marginLeft: '210px', letterSpacing:'2px',color:'#000000'}}>Sapphire Add Record Pannel</h1>
+            <h1 className="display-4" style={{ marginLeft: '210px',fontFamily:'helvatica',textShadow:'3px 3px 3px #d32f2f', letterSpacing:'2px',color:'#000000'}}>Sapphire Add Record Pannel</h1>
             <hr class="my-4" ></hr>
           </div>
   
